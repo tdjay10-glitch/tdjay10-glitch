@@ -25,6 +25,6 @@ React · Vite · Tailwind CSS · Node.js · HTML/CSS
 
 ## Let's Connect
 📧 info@shebservices.com  
-🌐 shebservices.com  
+🌐 [shebservices.com](https://shebservices.com) 
 📱 TikTok: shinabean95
--->
+
